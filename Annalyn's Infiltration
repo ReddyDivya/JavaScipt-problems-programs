@@ -63,12 +63,7 @@ prisonerIsAwake = true;
 
 export function canSignalPrisoner(archerIsAwake, prisonerIsAwake) {
   /*Operator precedence highest-lowest !, &&, || */
-  if(!archerIsAwake && prisonerIsAwake)
-  {
-    return true;
-  }
-  else
-    return false;
+  return (prisonerIsAwake && !archerIsAwake )
 }
 
 /**
@@ -92,12 +87,5 @@ export function canFreePrisoner(
   prisonerIsAwake,
   petDogIsPresent
 ) {
-  if((!knightIsAwake && !archerIsAwake && !prisonerIsAwake && petDogIsPresent) || (petDogIsPresent && !archerIsAwake ))
-  {
-      return true;
-  }
-  else
-  {
-    return false;
-  }
+  return (!knightIsAwake && !archerIsAwake && prisonerIsAwake) || (petDogIsPresent && !archerIsAwake )
 }
