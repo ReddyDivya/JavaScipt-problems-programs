@@ -15,6 +15,10 @@ JavaScript is a dynamic language, supporting object-oriented, imperative, and de
 - A variable can reference different values over its lifetime when using let or var. 
 For example, myFirstVariable can be defined and redefined many times using the assignment operator =
 
-let myFirstVariable = 1;
-myFirstVariable = 'Some string';
-myFirstVariable = new SomeComplexClass();
+  ### Example
+
+    let myFirstVariable = 1;
+
+    myFirstVariable = 'Some string';
+
+    myFirstVariable = new SomeComplexClass();
