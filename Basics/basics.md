@@ -90,5 +90,5 @@ For example, myFirstVariable can be defined and redefined many times using the a
     // file.spec.js
     import { MY_VALUE, add } from './file';
 
-    add(MY_VALUE, 5); // => 15
+    add(MY_VALUE, 5); // => 15 
   
