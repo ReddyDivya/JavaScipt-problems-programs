@@ -53,9 +53,9 @@ Some of the methods that are available on every Array object can be used to add 
 ### shift
 
 - The shift() method removes the first element from an array and returns that removed element. This method changes the length of the array.
-
-    ### Example
-
+    
+    ### Example 
+    
     const numbers = [1, 'two', 3, 'four'];
     numbers.shift(); //  1
     numbers; // ['two', 3, 'four']
