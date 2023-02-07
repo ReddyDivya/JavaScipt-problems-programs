@@ -40,17 +40,15 @@ The following list shows some commonly used helpers.
 1. toUpperCase - method returns the calling string value converted to uppercase (the value will be converted to a string if it isn't one).
      
      ### Syntax
-      
       toUpperCase()
 
       ### Example
-      -----------------
       Ex: const sentence = 'The quick brown fox jumps over the lazy dog.';
           console.log(sentence.toUpperCase()); // "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG."
 ---      
 2. toLowerCase - method returns the calling string value converted to lower case.
       
-       ### Syntax  
+       ### Syntax
        toLowerCase()
 
       ### Example
