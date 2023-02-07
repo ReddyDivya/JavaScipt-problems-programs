@@ -1,16 +1,19 @@
-### String
----------------------------------
+## String
+
 A string is the JavaScript data type to store text data.
 
+
 ## Creating a String
----------------------------------
+
 You create a string by wrapping the text in single quotes or double quotes. On Exercism, single quotes are used.
 
 'Hello, World!'
 "Hello, World!"
 
+---
+
 ## Strings as Lists of Characters
----------------------------------
+
 A string can be treated as a list of characters where the first character has index 0. You can access an individual character of the string using square brackets and the index of the letter you want to retrieve.
 
 'cat'[0];  // 'c'
@@ -22,8 +25,10 @@ You can determine the number of characters in a string by accessing the length p
 
 'cat'.length; // 3
 
+---
+
 ### Concatenation and Methods
----------------------------------
+
 The simplest way to concatenate strings is to use the addition operator +.
 
 'I like' + ' ' + 'cats.';  // "I like cats."
