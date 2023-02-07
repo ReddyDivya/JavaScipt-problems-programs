@@ -40,4 +40,54 @@ For example, myFirstVariable can be defined and redefined many times using the a
     MY_MUTABLE_VALUE_CONSTANT.food = 'pear';     
     MY_MUTABLE_VALUE_CONSTANT; // { food: "pear" }
 ---
+
+## Constant Value (Immutability)
+
+- Technically the values can be changed. 
+- use Object.freeze(value).
+
+  ### Example
+  
+  const MY_VALUE_CONSTANT = Object.freeze({ food: 'apple' });
+
+  // This silently fails
+  MY_VALUE_CONSTANT.food = 'pear';
+
+  MY_VALUE_CONSTANT;  // => { food: "apple" }
+--- 
+
+## Function Declarations
+
+- Units of functionality are encapsulated in functions, usually grouping functions together in the same file if they belong together. 
+- These functions can take parameters (arguments), and can return a value using the return keyword. Functions are invoked using ()
+
+  ### Example
+  
+  function add(num1, num2) {
+    return num1 + num2;
+  }
+
+  add(1, 3); // => 4
+---
+
+## Export and Import
+
+- The export and import keywords are powerful tools that turn a regular JavaScript file into a JavaScript module.
+- Apart from allowing code to selectively expose components, such as functions, classes, variables and constants, it also enables a whole range of other features, such as:
+    **Renaming exports and imports**, which allows you to avoid naming conflicts,
+    **Dynamic Imports**, which loads code on demand,
+    
+    ### Example
+    
+    // file.js
+      export const MY_VALUE = 10;
+
+      export function add(num1, num2) {
+        return num1 + num2;
+      }
+
+    // file.spec.js
+    import { MY_VALUE, add } from './file';
+
+    add(MY_VALUE, 5); // => 15
   
