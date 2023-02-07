@@ -18,7 +18,26 @@ For example, myFirstVariable can be defined and redefined many times using the a
   ### Example
 
     let myFirstVariable = 1;
-
     myFirstVariable = 'Some string';
-
     myFirstVariable = new SomeComplexClass();
+    
+---
+  In contrast to let and var, variables that are defined with const can only be assigned once. This is used to define constants in JavaScript.
+  
+  ### Example
+
+    const MY_FIRST_CONSTANT = 10; // Can not be re-assigned.
+    MY_FIRST_CONSTANT = 20;  //TypeError: Assignment to constant variable.
+---
+
+## Constant Assignment
+
+- The const keyword can only assign a value to a const variable once. 
+
+    ### Example
+    
+    const MY_MUTABLE_VALUE_CONSTANT = { food: 'apple' }; // This is possible
+    MY_MUTABLE_VALUE_CONSTANT.food = 'pear';     
+    MY_MUTABLE_VALUE_CONSTANT; // { food: "pear" }
+---
+  
