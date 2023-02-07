@@ -51,6 +51,7 @@ For example, myFirstVariable can be defined and redefined many times using the a
   const MY_VALUE_CONSTANT = Object.freeze({ food: 'apple' });
 
   // This silently fails
+  
   MY_VALUE_CONSTANT.food = 'pear';
 
   MY_VALUE_CONSTANT;  // => { food: "apple" }
