@@ -2,7 +2,7 @@
 
 Practicing problem solving through exercism
 
-1. Return the First Element in an Array
+- [ ] Return the First Element in an Array
 2. Power Calculator
 3. Find Largest Number in an array.
 4. Reverse a string.
