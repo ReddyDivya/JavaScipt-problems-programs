@@ -1,4 +1,4 @@
-# Exercism-JavaScipt
+# JavaScipt Problem solving programs
 
 Practicing problem solving through exercism
 
