@@ -10,7 +10,7 @@
   Return the value of max.  
 */
 
-function findLargestNum(vArray)
+const findLargestNum = (vArray) => 
 {
   let vLargestNum = vArray[0]; 
 
