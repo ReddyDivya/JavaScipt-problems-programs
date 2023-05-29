@@ -25,5 +25,7 @@ function findLargestNum(vArray)
   return vLargestNum;
 }//findLargestNum
 
-console.log(findLargestNum([7,88,99,2,1,4,66,100]))
-console.log(findLargestNum([227,288,39,332,441,34,616,0]))
+console.log(findLargestNum([7,88,99,2,1,4,66,100])); //100
+console.log(findLargestNum([227,288,39,332,441,34,616,0])); //616
+
+
