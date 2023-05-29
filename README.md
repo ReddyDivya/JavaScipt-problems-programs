@@ -17,7 +17,7 @@ Practicing problem solving through exercism
 - [ ] Convert Age to Days.
 - [ ] Convert Hours into Seconds.
 - [ ] Maximum Edge of a Triangle
-- [ ] Return the Remainder from Two Numbers
+- [x] Return the Remainder from Two Numbers
 - [ ] Find the Perimeter of a Rectangle
 - [ ] Bitwise Operations
 - [ ] Add up the Numbers from a Single Number
