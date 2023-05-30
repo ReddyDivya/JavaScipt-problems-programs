@@ -11,7 +11,7 @@ Practicing problem solving through exercism
 - [ ] Find the sum of all the numbers in an array.
 - [ ] Count the frequency of each element in an array.
 - [ ] Check if a string is a palindrome.
-- [ ] Remove duplicates from an array.
+- [x] Remove duplicates from an array.
 - [ ] Find the missing number in an array of consecutive numbers.
 - [ ] Convert Minutes into Seconds.
 - [ ] Area of a Triangle.
