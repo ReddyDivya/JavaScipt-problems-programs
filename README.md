@@ -5,13 +5,13 @@ Practicing problem solving through exercism
 
 - [x] Return the Remainder from Two Numbers
 - [x] Find Largest Number in an array.
+- [x] Remove duplicates from an array.
 - [ ] Reverse a string.
 - [ ] Power Calculator
 - [ ] Check if a given number is prime.
 - [ ] Find the sum of all the numbers in an array.
 - [ ] Count the frequency of each element in an array.
 - [ ] Check if a string is a palindrome.
-- [x] Remove duplicates from an array.
 - [ ] Find the missing number in an array of consecutive numbers.
 - [ ] Convert Minutes into Seconds.
 - [ ] Area of a Triangle.
