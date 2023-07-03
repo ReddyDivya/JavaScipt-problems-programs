@@ -6,9 +6,9 @@ Practicing problem solving through exercism
 - [x] Return the Remainder from Two Numbers
 - [x] Find Largest Number in an array.
 - [x] Remove duplicates from an array.
-- [ ] Reverse a string.
+- [x] Reverse a string.
+- [x] Check if a given number is prime.
 - [ ] Power Calculator
-- [ ] Check if a given number is prime.
 - [ ] Find the sum of all the numbers in an array.
 - [ ] Count the frequency of each element in an array.
 - [ ] Check if a string is a palindrome.
