@@ -8,8 +8,8 @@ Practicing problem solving through exercism
 - [x] Remove duplicates from an array.
 - [x] Reverse a string.
 - [x] Check if a given number is prime.
-- [ ] Power Calculator
 - [x] Find the sum of all the numbers in an array.
+- [ ] Power Calculator
 - [ ] Count the frequency of each element in an array.
 - [ ] Check if a string is a palindrome.
 - [ ] Find the missing number in an array of consecutive numbers.
