@@ -9,7 +9,7 @@ Practicing problem solving through exercism
 - [x] Reverse a string.
 - [x] Check if a given number is prime.
 - [ ] Power Calculator
-- [ ] Find the sum of all the numbers in an array.
+- [x] Find the sum of all the numbers in an array.
 - [ ] Count the frequency of each element in an array.
 - [ ] Check if a string is a palindrome.
 - [ ] Find the missing number in an array of consecutive numbers.
