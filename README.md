@@ -11,7 +11,7 @@ Practicing problem solving through exercism
 - [x] Find the sum of all the numbers in an array.
 - [ ] Fibonacci
 - [ ] FizzBuzz
-- [ ] 
+- [ ] -
 - [ ] Factorial
 - [ ] Find the Maximum Number in an array
 - [ ] Find the Intersection of Two Arrays
