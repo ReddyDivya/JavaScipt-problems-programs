@@ -11,7 +11,7 @@ Practicing problem solving through exercism
 - [x] Find the sum of all the numbers in an array.
 - [ ] Fibonacci
 - [ ] FizzBuzz
-- [ ] -
+- [ ] --
 - [ ] Factorial
 - [ ] Find the Maximum Number in an array
 - [ ] Find the Intersection of Two Arrays
@@ -38,7 +38,7 @@ Practicing problem solving through exercism
 - [ ] String Compression
 - [ ] Find the Closest Pair in an Array
 - [ ] Sort Colors
-- [ ] 
+- [ ] --
 - [ ] Power Calculator
 - [ ] Count the frequency of each element in an array.
 - [ ] Check if a string is a palindrome.
