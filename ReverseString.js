@@ -1,4 +1,5 @@
 //Reverse a string
+
 //Method 1: 
 const reverseString = (str) => {
   let reversedStr = '';
