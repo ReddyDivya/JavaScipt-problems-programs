@@ -1,14 +1,12 @@
 # JavaScipt Problem solving programs
 
-Practicing problem solving through exercism
-
-
 - [x] Return the Remainder from Two Numbers
-- [x] Find Largest Number in an array.
+- [x] Find the Largest Number in an array.
 - [x] Remove duplicates from an array.
 - [x] Reverse a string.
 - [x] Check if a given number is prime.
 - [x] Find the sum of all the numbers in an array.
+- [x] Generate a Random Number in a given range.
 - [ ] Fibonacci
 - [ ] FizzBuzz
 - [ ] --
