@@ -4,6 +4,7 @@
 - [x] Find the Largest Number in an array.
 - [x] Remove duplicates from an array.
 - [x] Reverse a string.
+- [x] Reverse a number.
 - [x] Check if a given number is prime.
 - [x] Find the sum of all the numbers in an array.
 - [x] Generate a Random Number in a given range.
