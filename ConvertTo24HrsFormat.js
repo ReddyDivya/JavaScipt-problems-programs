@@ -1,4 +1,4 @@
-//Write a function which can convert the time input given in 12 hours format to 24 hours format
+//Write a function that can convert the time input given in 12 hours format to 24-hour format
 
 //Method 1: for time format 12:10 AM
 
@@ -54,13 +54,25 @@ function convertTo24HrsFormat(time12) {
 mm - minutes (always 2 digits), and AM or PM - period (case-insensitive).
 */
 
+  /*
+  ^ => start of an input string.
+  (\d{1,2}) => First capturing group.
+  (\d) => hour in 12-hour format.
+  {1,2} => hour can be one or two digits.
+  : => separate the hour and minute parts of the time.
+  (\d{2}) => second capturing group. It matches exactly two digits representing the minutes.
+  ([APap][Mm]) => third capturing group. It matches either "AM" or "PM" in a case-insensitive manner.
+                [] => indicate a character class, so it matches one character that is either "A" or "P" (in any case)
+                followed by one character that is either "M" (in uppercase) or "m" (in lowercase).
+   $ => end of an input string.
+  */
   const timeRegex = /^(\d{1,2}):(\d{2})([APap][Mm])$/;
   const match = time12.match(timeRegex);
 
   //2. invalid pattern then throw an error
   if (!match) 
   {
-    throw new Error('Invalid time format. Please use "hh:mmAM" or           "hh:mmPM".');
+    throw new Error('Invalid time format. Please use "hh:mmAM" or "hh:mmPM".');
   }
 
   //3. Valid format then extract hours, minutes and period
