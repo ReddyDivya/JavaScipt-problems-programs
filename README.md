@@ -9,6 +9,7 @@
 - [x] Find the sum of all the numbers in an array.
 - [x] Generate a Random Number in a given range.
 - [x] Convert the time input given in 12 hours format to 24-hour format
+- [x] Count of characters between the first and last character 'X' in the given string
 - [ ] Fibonacci
 - [ ] FizzBuzz
 - [ ] --
