@@ -8,6 +8,7 @@
 - [x] Check if a given number is prime.
 - [x] Find the sum of all the numbers in an array.
 - [x] Generate a Random Number in a given range.
+- [x] Convert the time input given in 12 hours format to 24-hour format
 - [ ] Fibonacci
 - [ ] FizzBuzz
 - [ ] --
