@@ -49,6 +49,6 @@ const findDuplicates = (inputArray) => {
   return duplicates;
 };
 
-console.log(findDuplicates([1,2,3,3,4,2,5,6, 1,7,3,6]));//[3, 2, 1, 3, 6]
+console.log(findDuplicates([1,2,3,3,4,2,5,6,1,7,6]));//[3, 2, 1, 6]
 console.log(findDuplicates([1,3,3]));//[3]
 console.log(findDuplicates([1,0,0,3,3]));//[0, 3]
