@@ -26,3 +26,27 @@ Output
   44,  4, 55, 7
 ]
 */
+
+// Method - 2: Using Set
+//To find duplicate elements in array in javascript
+const findDuplicates = (inputArray) => {
+  //Using Set
+  let uniqueElements = new Set();
+  let duplicates = [];
+
+  for(let element of inputArray)
+  {
+    if(uniqueElements.has(element))//if element is duplicate
+    {
+      duplicates.push(element);
+    }
+    else //add new elements
+    {
+      uniqueElements.add(element);
+    }
+  }
+
+  return duplicates;
+};
+
+console.log(findDuplicates([1,2,3,3,4,2,5,6, 1,7,3,6]));//[3, 2, 1, 3, 6]
