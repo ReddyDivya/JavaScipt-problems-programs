@@ -14,8 +14,6 @@ console.log(reverseString('reverse'));//esrever
 console.log(reverseString('programming'));//gnimmargorp
 console.log(reverseString('javascript'));//tpircsavaj
 
-
-
 /*
   Method 2: using built-in JavaScript methods - split, reverse, join
   ------------------------------------------------------------------
@@ -43,6 +41,11 @@ Method 3: using reduce
 */
 
 const reverseStringReduceMethod = (str) => {
+/*
+callback function (reversedStr, char) => char + reversedStr is applied to each element in the array.
+reversedStr is the accumulated result (initially an empty string), and char is the current character from the array.
+*/
+  
   return str.split("").reduce((reversedStr, char) =>  char + reversedStr, "");
 }
 
