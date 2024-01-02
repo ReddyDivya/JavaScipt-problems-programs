@@ -1,18 +1,19 @@
 # JavaScipt Problem solving programs
 
-- [x] Return the Remainder from Two Numbers
-- [x] Find the Largest Number in an array.
-- [x] Remove duplicates from an array.
-- [x] Reverse a string.
-- [x] Reverse a number.
-- [x] Check if a given number is prime.
-- [x] Find the sum of all the numbers in an array.
-- [x] Generate a Random Number in a given range.
-- [x] Convert the time input given in 12 hours format to 24-hour format
-- [x] Count of characters between the first and last character 'X' in the given string
+- [x] 1. Return the Remainder from Two Numbers
+- [x] 2. Find the Largest Number in an array.
+- [x] 3. Remove duplicates from an array.
+- [x] 4. Reverse a string.
+- [x] 5. Reverse a number.
+- [x] 6. Check if a given number is prime.
+- [x] 7. Find the sum of all the numbers in an array.
+- [x] 8. Generate a Random Number in a given range.
+- [x] 9. Convert the time input given in 12 hours format to 24-hour format
+- [x] 10. Count of characters between the first and last character 'X' in the given string
+- [x] 11. Check if a string is a palindrome or not.
+
 - [ ] Fibonacci
 - [ ] FizzBuzz
-- [ ] --
 - [ ] Factorial
 - [ ] Find the Maximum Number in an array
 - [ ] Find the Intersection of Two Arrays
@@ -42,7 +43,6 @@
 - [ ] --
 - [ ] Power Calculator
 - [ ] Count the frequency of each element in an array.
-- [ ] Check if a string is a palindrome.
 - [ ] Find the missing number in an array of consecutive numbers.
 - [ ] Convert Minutes into Seconds.
 - [ ] Binary Search
