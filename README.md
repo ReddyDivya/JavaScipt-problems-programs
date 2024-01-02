@@ -12,6 +12,7 @@
 - [x] 10. Count of characters between the first and last character 'X' in the given string
 - [x] 11. Check if a string is a palindrome or not.
 - [x] 12. FizzBuzz
+- [x] 13. [Maximum characters from a given string](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/maxCharacters.js)
 
 - [ ] Fibonacci
 - [ ] Factorial
