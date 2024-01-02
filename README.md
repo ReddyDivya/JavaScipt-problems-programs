@@ -2,16 +2,16 @@
 
 - [x] 1. Return the Remainder from Two Numbers
 - [x] 2. Find the Largest Number in an array.
-- [x] 3. Remove duplicates from an array.
-- [x] 4. Reverse a string.
-- [x] 5. Reverse a number.
+- [x] 3. [Remove duplicates from an array](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/RemoveDuplicateElements.js)
+- [x] 4. [Reverse a string](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/reverseString.js)
+- [x] 5. [Reverse a given integer](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/ReverseGivenInteger.js)
 - [x] 6. Check if a given number is prime.
 - [x] 7. Find the sum of all the numbers in an array.
 - [x] 8. Generate a Random Number in a given range.
 - [x] 9. Convert the time input given in 12 hours format to 24-hour format
 - [x] 10. Count of characters between the first and last character 'X' in the given string
-- [x] 11. Check if a string is a palindrome or not.
-- [x] 12. FizzBuzz
+- [x] 11. [Check if a string is a palindrome or not](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/isStringPalindrome.js)
+- [x] 12. [FizzBuzz](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/fizzbuzz.js)
 - [x] 13. [Maximum characters from a given string](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/maxCharacters.js)
 
 - [ ] Fibonacci
