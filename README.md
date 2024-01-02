@@ -11,9 +11,9 @@
 - [x] 9. Convert the time input given in 12 hours format to 24-hour format
 - [x] 10. Count of characters between the first and last character 'X' in the given string
 - [x] 11. Check if a string is a palindrome or not.
+- [x] 12. FizzBuzz
 
 - [ ] Fibonacci
-- [ ] FizzBuzz
 - [ ] Factorial
 - [ ] Find the Maximum Number in an array
 - [ ] Find the Intersection of Two Arrays
