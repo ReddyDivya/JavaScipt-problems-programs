@@ -14,7 +14,7 @@
 - [x] 12. [FizzBuzz](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/fizzbuzz.js)
 - [x] 13. [Maximum characters from a given string](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/maxCharacters.js)
 - [x] 14. [Capitalize the String](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/capitalizeTheString.js)
-- [x] 15. [Chunk the array]()
+- [x] 15. [Chunk the array](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/chunkTheArray.js)
 - [ ] Fibonacci
 - [ ] Factorial
 - [ ] Find the Maximum Number in an array
