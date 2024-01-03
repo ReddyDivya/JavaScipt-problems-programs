@@ -13,7 +13,7 @@
 - [x] 11. [Check if a string is a palindrome or not](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/isStringPalindrome.js)
 - [x] 12. [FizzBuzz](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/fizzbuzz.js)
 - [x] 13. [Maximum characters from a given string](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/maxCharacters.js)
-
+- [x] 14. [Capitalize the String]()
 - [ ] Fibonacci
 - [ ] Factorial
 - [ ] Find the Maximum Number in an array
