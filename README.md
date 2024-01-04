@@ -18,6 +18,7 @@
 - [x] 16. [Anagram](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/anagram.js)
 - [x] 17. [Factorial](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/factorial.js)
 - [x] 18. [Steps Pattern](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/stepsPattern.js)
+- [x] 19. [Pyramid](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/pyramid.js)
 - [ ] Fibonacci
 - [ ] Find the Maximum Number in an array
 - [ ] Find the Intersection of Two Arrays
