@@ -16,8 +16,8 @@
 - [x] 14. [Capitalize the String](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/capitalizeTheString.js)
 - [x] 15. [Chunk the array](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/chunkTheArray.js)
 - [x] 16. [Anagram](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/anagram.js)
+- [x] [Factorial](https://github.com/ReddyDivya/JavaScipt-problems-programs/blob/main/factorial.js)
 - [ ] Fibonacci
-- [ ] Factorial
 - [ ] Find the Maximum Number in an array
 - [ ] Find the Intersection of Two Arrays
 - [ ] Check for Duplicates
